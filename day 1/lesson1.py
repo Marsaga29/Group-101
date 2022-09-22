@@ -13,4 +13,4 @@ print(type(height))
 print(type(weight))
 
 
-print(name + " " + str(surname) + " " + str(age) + "  " + str(height) + " " + str(weight) + " " + (job))
+print(name + " " + str(surname) + " " + str(age) + "  " + str(height) + " " + str(weight) + " " +  (job))
